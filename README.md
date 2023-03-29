@@ -28,10 +28,7 @@ Very simple "userscript" which adds several features to kite.zerodha.com ui (scr
 * Check this image on enabling CORS:
 ![corsusage](https://dl.dropbox.com/s/mbktrw9dkqu4wl0/corsToggle.png?dl=0)
 
-------
-Contributors
-- Amit
-- Yuva (@rbcdev)
+-
 
 ------
 
